@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5d3c7a468f6bd624aaaadd3216dcf570
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gaban
+  fontNames:
+  - Gaban
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a10c2355abf0d294f8f798546b57f617, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
